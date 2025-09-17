@@ -1,0 +1,18 @@
+/* styles.css - INFO2180 Lab 1 - 620121237 */
+
+/* Level 1 heading */
+h1 {
+  font-size: 24px;
+  color: #38B2AC; /* teal color */
+}
+
+/* Level 2 heading */
+h2 {
+  font-size: 21px;
+  color: #5A67D8; /* indigo color */
+}
+
+/* Paragraphs */
+p {
+  font-size: 18px;
+}
